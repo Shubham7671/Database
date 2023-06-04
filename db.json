@@ -1,0 +1,23 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Shubham Kumar",
+            "username": "sk767196@gmail.com",
+            "password": 12345,
+            "mobile": 8294587204,
+            "product": []
+        }
+    ],
+    "products": [
+        {
+            "id":1,
+            "title":"KISI KA BHAI KISI KA JAAN",
+            "image":"https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00020144.jpg?v=3",
+            "language":"Hindi",
+            "genre":"Action",
+            "recent":true
+
+        }
+    ]
+}
