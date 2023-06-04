@@ -26,6 +26,34 @@
           "genre": "Action",
           "recent": "true",
           "id": 2
-        }
+        },{
+            "title": "TRANSFORMERS",
+            "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00023474.jpg?v=4",
+            "language": "English",
+            "genre": "Action",
+            "recent": "true",
+            "id": 3
+          },  {
+            "title": "ZARA HATKE ZARA BACHKE",
+            "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00023164.jpg?v=4",
+            "language": "Punjabi",
+            "genre": "Romance",
+            "recent": "true",
+            "id": 4
+          },  {
+            "title": "SPIDERMAN ",
+            "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00023456.jpg?v=4",
+            "language": "English",
+            "genre": "Animation",
+            "recent": "true",
+            "id": 5
+          },  {
+            "title": "THE KERALA STORY",
+            "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00023117.jpg?v=4",
+            "language": "Hindi",
+            "genre": "Drama",
+            "recent": "true",
+            "id": 6
+          }
     ]
 }
