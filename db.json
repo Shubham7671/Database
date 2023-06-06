@@ -62,22 +62,15 @@
             "genre": "Thriller",
             "recent": "true",
             "id": 7
-        },
-        {
-            "title": "THE LITTLE MERMAID",
-            "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00023407.jpg?v=4",
-            "language": "English",
-            "genre": "Adventure",
-            "recent": "true",
-            "id": 8
-        },
-        {
+        },{
             "title": "JOGIRA SARA RA RA",
             "image": "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00022988.jpg?v=4",
             "language": "Hindi",
             "genre": "Drama",
             "recent": "true",
-            "id": 9
+            "id": 8
         }
+    ],"bookings":[
+        
     ]
 }
