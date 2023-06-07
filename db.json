@@ -7,6 +7,13 @@
             "password": 12345,
             "mobile": 8294587204,
             "product": []
+        }, {
+            "id": 2,
+            "name": "Rithika Singh",
+            "username": "srithika743@gmail.com",
+            "password": 12345,
+            "mobile": 6529458454,
+            "product": []
         }
     ],
     "products": [
@@ -73,6 +80,7 @@
     ],"bookings":[
         {
             "id":1,
+            "bookingImage":"https://originserver-static1-uat.pvrcinemas.com/newweb/movies/thumb/374x226/HO00020144.jpg?v=3",
             "bookingId":"1278940",
             "bookingDate":"jun 06 2023",
             "movieName":"KISI KA BHAI KISI KA JAAN",
